@@ -1,2 +1,2 @@
 # Pickle-Logo
-Pickle php logo proposal.
+![Pickle Logo](https://raw.githubusercontent.com/FriendsOfPHP/pickle_logo/master/pickle.png)
