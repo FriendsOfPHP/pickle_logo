@@ -1,2 +1,2 @@
-# pickle_logo
-Logo for Pickle
+# Pickle-Logo
+Pickle php logo proposal.
